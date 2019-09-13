@@ -1,2 +1,2 @@
 # hello-world
-First repository.
+Mercury is the first cloned repository.
